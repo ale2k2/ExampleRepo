@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pantry2Me</string>
+    <string name="about_us">About Us</string>
+    <string name="recipe_generator">Recipe Generator</string>
+    <string name="title_activity_maps">Food Pantries Near Me</string>
+
+    <!-- Dialog list options -->
+    <string-array name="ingredients_array">
+        <item>First Ingredient:</item>
+        <item>Apples</item>
+        <item>Oranges</item>
+        <item>Strawberries</item>
+        <item>Bananas</item>
+    </string-array>
+
+    <!-- Dialog list options -->
+    <string-array name="ingredients_array2">
+        <item>Second Ingredient:</item>
+        <item>Flour</item>
+        <item>Eggs</item>
+        <item>Milk</item>
+        <item>Butter</item>
+    </string-array>
+</resources>
